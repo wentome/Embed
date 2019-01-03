@@ -1,2 +1,2 @@
-# Embed-STM32
+# Embed
 嵌入式工程
